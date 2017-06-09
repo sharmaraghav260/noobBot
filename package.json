@@ -1,0 +1,26 @@
+{
+  "name": "noobbot",
+  "version": "1.0.0",
+  "description": "This is a twitch chat bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/noobBot.git"
+  },
+  "keywords": [
+    "twitch",
+    "chat",
+    "bot",
+    "first",
+    "bot"
+  ],
+  "author": "Raghav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/noobBot/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/noobBot#readme"
+}
