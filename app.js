@@ -32,6 +32,12 @@ client.on("chat", function (channel, userstate, message, self) {
       client.action("justatoolbox", userstate['display-name'] +
         ", www.twitter.com/sharmaraghav260");
     }
+
+    if (message == "!github") {
+      client.action("justatoolbox", userstate['display-name'] +
+        ", www.github.com/sharmaraghav260");
+    }
+
     client.action("justatoolbox", userstate['display-name'] +
       ", you are a total noob.");
 });
